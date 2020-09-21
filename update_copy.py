@@ -27,3 +27,4 @@ print()
 nice_and_nasty = fruit.copy()
 nice_and_nasty.update(veg)
 print(nice_and_nasty) #it also combined them
+

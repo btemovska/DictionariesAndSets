@@ -66,3 +66,4 @@ while True:
 # You cannot go in this location
 # You are standing at the end of a road before a small brick building
 # Available exits are W, E, N, S, Q
+
